@@ -64,7 +64,7 @@ Built an interactive dashboard featuring:
 - Older customers exhibit higher churn behavior
 - Credit score and tenure are strong predictors of retention
 
-![Dashboard](tableau/dashboard_screenshot.png)
+![Dashboard](tableau/churn_dashboard_screenshot.png)
 
 ---
 
