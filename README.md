@@ -53,8 +53,8 @@ Built an interactive dashboard featuring:
 
 ## Dataset
 - Source: [(https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
-- Rows:
-- Columns:
+- Rows:10,000
+- Columns: 14
 
 ---
 
