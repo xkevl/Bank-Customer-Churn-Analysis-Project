@@ -11,8 +11,7 @@ This project analyzes customer churn behavior for a retail bank using SQL for da
 - data.csv
 
 /sql
-- Exploratory Data Analysis.sql
-- screenshots.pdf
+- churn_analysis.sql
 
 /tableau
 - dashboard_screenshot.png
