@@ -8,14 +8,14 @@ This project analyzes customer churn behavior for a retail bank using SQL for da
 ## Project Structure
 
 /data
-- data.csv
+- churn.csv
 
 /sql
 - churn_analysis.sql
 
 /tableau
-- churn_dashboard.twbx
-- dashboard_screenshot.png
+- churn rate dashboard.twbx
+- churn_dashboard_screenshot.png
 
 ---
 
