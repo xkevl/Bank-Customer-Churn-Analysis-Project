@@ -39,7 +39,7 @@ SELECT
 	ROUND(SUM(CASE WHEN Exited = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) AS churn_rate
 FROM churn_staging;
 
--- Churn  rate by credit score
+-- Churn rate by credit score
 SELECT
 	CASE 
 		WHEN CreditScore < 500 THEN 'Low'
